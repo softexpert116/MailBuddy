@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  ECM
+
+  Created by ujs on 11/17/20.
+  Copyright © 2020 ujs. All rights reserved.
+*/
+{
+"APP_NAME" = "ECM";
+"STRING_email_content_manipulation" = "Управление содержимым электронной почты";
+"STRING_time_setting" = "Настройки времени";
+"STRING_apply" = "Подать заявку";
+"STRING_close" = "Закрыть";
+"STRING_settings" = "Настройки";
+"STRING_auto_greets" = "Авто приветствия";
+"STRING_format" = "Формат";
+"STRING_l_custom" = "На заказ";
+"STRING_l_random" = "Случайный";
+"STRING_separate_keywords_by_single_coma" = "Разделяйте ключевые слова одной запятой";
+"STRING_time" = "Время";
+"STRING_edit" = "Pедактировать";
+"STRING_changing_language_will_reset_time_greetings" = "Изменение языка приведет к сбросу времени приветствия";
+"STRING_preview" = "Предварительный просмотр";
+"STRING_language" = "Язык";
+"STRING_font" = "Шрифт";
+"STRING_font_name_size" = "Font Name and Size";
+"STRING_select_font_size" = "Select Font & Size";
+
+"STRING_custom" = "Здравствуйте";
+"STRING_random" = "Здравствуйте";
+"STRING_time1" = "Доброе утро";
+"STRING_time2" = "Добрый день";
+"STRING_time3" = "Добрый вечер";
+    "STRING_mr" = "Мистер";
+    "STRING_mrs" = "Миссис";
+}

@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  ECM
+
+  Created by ujs on 11/17/20.
+  Copyright © 2020 ujs. All rights reserved.
+*/
+{
+"APP_NAME" = "ECM";
+"STRING_email_content_manipulation" = "Manipulación de contenido de correo electrónico";
+"STRING_time_setting" = "Configuracion de hora";
+"STRING_apply" = "Aplique";
+"STRING_close" = "Cerrar";
+"STRING_settings" = "Configuraciones";
+"STRING_auto_greets" = "Saludos automáticos";
+"STRING_format" = "Formato";
+"STRING_l_custom" = "Personalizado";
+"STRING_l_random" = "Aleatorio";
+"STRING_separate_keywords_by_single_coma" = "Separe las palabras clave por comas simples";
+"STRING_time" = "Hora";
+"STRING_edit" = "Editar";
+"STRING_changing_language_will_reset_time_greetings" = "Cambiar el idioma restablecerá los saludos de tiempo";
+"STRING_preview" = "Avance";
+"STRING_language" = "Idioma";
+"STRING_font" = "Fuente";
+"STRING_font_name_size" = "Font Name and Size";
+"STRING_select_font_size" = "Select Font & Size";
+
+"STRING_custom" = "Hola";
+"STRING_random" = "Hola";
+"STRING_time1" = "Buenos días";
+"STRING_time2" = "Buenas tardes";
+"STRING_time3" = "Buena noches";
+    "STRING_mr" = "Señor";
+    "STRING_mrs" = "Señora";
+}

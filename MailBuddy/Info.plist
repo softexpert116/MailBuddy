@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2020 ujs. All rights reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string>ECMController</string>
+	<key>Supported10.12PluginCompatibilityUUIDs</key>
+	<array>
+		<string>9054AFD9-2607-489E-8E63-8B09A749BC61</string>
+		<string>36CCB8BB-2207-455E-89BC-B9D6E47ABB5B</string>
+		<string>1CD3B36A-0E3B-4A26-8F7E-5BDF96AAC97E</string>
+		<string>21560BD9-A3CC-482E-9B99-95B7BF61EDC1</string>
+	</array>
+	<key>Supported10.13PluginCompatibilityUUIDs</key>
+	<array>
+		<string>C86CD990-4660-4E36-8CDA-7454DEB2E199</string>
+	</array>
+	<key>Supported10.14PluginCompatibilityUUIDs</key>
+	<array>
+		<string>6EEA38FB-1A0B-469B-BB35-4C2E0EEA9053</string>
+	</array>
+	<key>Supported10.15PluginCompatibilityUUIDs</key>
+	<array>
+		<string>6EEA38FB-1A0B-469B-BB35-4C2E0EEA9053</string>
+	</array>
+	<key>SupportedPluginCompatibilityUUIDs</key>
+	<array>
+		<string>71562B89-0D90-4588-8E94-A75B701D6443</string>
+	</array>
+</dict>
+</plist>
